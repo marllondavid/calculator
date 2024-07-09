@@ -24,3 +24,10 @@ Contribuições são bem-vindas! Se você encontrar bugs ou tiver sugestões de 
 
 Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+![Screenshot_1720483227](https://github.com/marllondavid/calculator/assets/110509799/7cce065b-098e-4091-a065-b7d6d1a41d17)
+
+![Screenshot_1720483828](https://github.com/marllondavid/calculator/assets/110509799/0fc19fed-fc59-4ac7-845f-e1b52639d82e)
+
+![Screenshot_1720483834](https://github.com/marllondavid/calculator/assets/110509799/cfeeaa9b-1183-4b3e-b46b-8db190470ffe)
+
